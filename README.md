@@ -1,10 +1,10 @@
 🌟 Mentor Website :
 
-A fully responsive HTML & CSS website designed to showcase courses, trainers, events, and pricing. Built with HTML5, CSS3, and Font Awesome icons for a modern, professional look.
+A HTML & CSS website designed to showcase courses, trainers, events, and pricing. Built with HTML5, CSS3, and Font Awesome icons for a modern, professional look.
 
 🚀 Features :
 
-Responsive Navbar with smooth scrolling links.
+Smooth scrolling links.
 
 Home Section: Hero banner with headline & call-to-action button.
 
